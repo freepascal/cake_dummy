@@ -1,0 +1,14 @@
+msgid "post_id"
+msgstr "ID"
+
+msgid "post_title"
+msgstr "Tiêu đề"
+
+msgid "post_body"
+msgstr "Nội dung"
+
+msgid "post_created"
+msgstr "Được tạo vào"
+
+msgid "post_actions"
+msgstr "Thao tác"

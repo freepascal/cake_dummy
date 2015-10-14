@@ -1,0 +1,86 @@
+msgid "post_id"
+msgstr "ID"
+
+msgid "post_title"
+msgstr "Title"
+
+msgid "post_body"
+msgstr "Body"
+
+msgid "post_created"
+msgstr "Created"
+
+msgid "add_user"
+msgstr "Add User"
+
+msgid "invalid_user"
+msgstr "Invalid User"
+
+msgid "invalid_user_passwd_combination"
+msgstr "Invalid user and password combination"
+
+msgid "add_post_successfully"
+msgstr "Add your posts successfully"
+
+msgid "add_post_fail"
+msgstr "Add your post fail"
+
+msgid "created_in"
+msgstr "Created on"
+
+msgid "by"
+msgstr "by"
+
+#################
+#post
+msgid "add_post"
+msgstr "Add Post"
+
+msgid "all_posts"
+msgstr "All posts"
+
+msgid "post_actions"
+msgstr "Actions"
+
+msgid "post_author"
+msgstr "Author"
+
+msgid "save_post_success"
+msgstr "Save post successfully"
+
+###################
+#user
+msgid "invalid_user"
+msgstr "Invalid user"
+
+msgid "edit_user"
+msgstr "Edit user"
+
+msgid "edit_user_success"
+msgstr "Edit your successfully"
+
+msgid "edit_user_fail"
+msgstr "Edit your failed"
+
+msgid "see_all_users"
+msgstr "See users list"
+
+msgid "add_user_success"
+msgstr "Add user successfully"
+
+msgid "delete_success"
+msgstr "Delete user successfully"
+
+###################
+#login
+msgid "login_success"
+msgstr "Login successfully"
+
+msgid "you_are_logged_in_as"
+msgstr "You are logged in as "
+
+msgid "login"
+msgstr "Login"
+
+msgid "register"
+msgstr "Register now!"
