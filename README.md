@@ -6,11 +6,11 @@
 	sudo chmod -R 777 tmp
 	cd Config
 	sudo mv database.php.default database.php
-	sudo gedit database.php
+	sudo gedit database.php 
 	cd ../
 	sudo Console/cake schema create
 	
-	If an error occurs while execute a statement, use
+	If an error occurs while deploying cake_dummy, use
 		cd ${APP_ROOT_DIR}/app
 		sudo chmod -R 777 tmp
 
