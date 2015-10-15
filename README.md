@@ -1,3 +1,19 @@
+# Install Cake_Dummy
+	cd ${APP_ROOT_DIR}
+	cd app
+	sudo mkdir tmp
+	sudo chown -R www-data tmp
+	sudo chmod -R 777 tmp
+	cd Config
+	sudo mv database.php.default database.php
+	sudo gedit database.php
+	cd ../
+	sudo Console/cake schema create
+	
+	If an error occurs while execute a statement, use
+		cd ${APP_ROOT_DIR}/app
+		sudo chmod -R 777 tmp
+
 # CakePHP
 
 [![Latest Stable Version](https://poser.pugx.org/cakephp/cakephp/v/stable.svg)](https://packagist.org/packages/cakephp/cakephp)
@@ -9,7 +25,6 @@
 
 CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC.
 Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
-
 
 ## Some Handy Links
 
